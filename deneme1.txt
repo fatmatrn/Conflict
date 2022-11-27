@@ -1,4 +1,8 @@
 sdk
 jknflksd
 jnfkldsmfl
+<<<<<<< HEAD
 master b ekleme
+=======
+fatma b deneme1
+>>>>>>> fatma
