@@ -4,3 +4,5 @@ jnfkldsmfl
 master b ekleme
 fatma b deneme1
 
+master 2. ekleme
+
